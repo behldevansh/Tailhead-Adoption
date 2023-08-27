@@ -1,12 +1,12 @@
 //Tailhead Adoption
 
-npm create next-app .
+yarn create next-app .
 
-npm run dev
+yarn dev
 
-npm add tailwindcss postcss autoprefixer
+yarn add tailwindcss postcss autoprefixer
 
 npx tailwindcss init -p
 
 
-npm add next-auth
+yarn add next-auth
