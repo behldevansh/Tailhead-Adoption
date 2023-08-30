@@ -12,3 +12,7 @@ npx tailwindcss init -p
 yarn add next-auth
 
 yarn add @auth/mongodb-adapter mongodb
+
+yarn add axios
+
+yarn add mongoose
